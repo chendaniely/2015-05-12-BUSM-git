@@ -1,6 +1,6 @@
 # Boston University SWC Workshop on Git
 
-A workshop held at BUSM
+A workshop held at Boston University School of Medicine.
 
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
